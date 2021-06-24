@@ -10,6 +10,8 @@ Step 1: Install the requirements
 Step 2: Download the spacy language package
 ```python -m spacy download en_core_web_lg```
 
+Note: The large package is a big download about 700mb.
+
 Step 3: Run the server.py file
 ```python server.py```
 
