@@ -31,7 +31,7 @@ spacy==2.3.7
 srsly==1.0.5
 thinc==7.4.5
 threadpoolctl==2.1.0
-tqdm==4.61.1
+tqdm==4.66.3
 urllib3==1.26.5
 wasabi==0.8.2
 Werkzeug==3.0.1
